@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+}
+
+.grey {
+    background-color: lightgrey;
+}
+
+.nav {
+    text-align: center;
+    margin: 0 0 20px 0;
+    padding: 0;
+    width: 100%;
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.nav li a {
+    color: black;
+}
+
+.column {
+    text-align: center;
+    width: 32%;
+    margin: 5px 0 20px 0;
+}
+
+.left {
+    float: left;
+    margin-right: 2%;
+}
+
+.right {
+    float: right;
+}
+
+p {
+    text-align: center;
+    padding: 20px;
+}
+
+footer {
+    clear: left;
+    text-align: center;
+}
